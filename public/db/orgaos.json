@@ -1,0 +1,12 @@
+{
+  "bancas": [
+    {
+      "id": 1,
+      "nome": "STF"
+    },
+    {
+      "id": 2,
+      "nome": "Camara"
+    }
+  ]
+}

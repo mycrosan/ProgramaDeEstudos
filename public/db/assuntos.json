@@ -1,0 +1,14 @@
+{
+  "bancas": [
+    {
+      "id": 1,
+      "nome": "Assunto1",
+      "idPai": ""
+    },
+    {
+      "id": 2,
+      "nome": "Assunto2",
+      "idPai": 1
+    }
+  ]
+}
